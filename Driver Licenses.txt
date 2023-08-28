@@ -1,0 +1,24 @@
+25230984		
+23900987		
+23907654		
+45900987		
+46980987		
+67788765		
+34786785		
+23459876		
+78982345		
+23895674		
+45909087		
+		
+Driver Licence	Name	Age
+25230984	Audrey Payne	23
+23900987	Leah Randall	31
+23907654	Lucas Randall	30
+45900987	Julia Hamilton	34
+46980987	Jane Wallace	19
+67788765	Charles Baker	42
+34786785	Yvonne Gray	23
+23459876	Katherine Dowd	41
+78982345	Eric Black	40
+23895674	William Black	45
+45909087	Owen Avery	52
