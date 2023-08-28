@@ -1,0 +1,65 @@
+Diseases
+Allergy
+Allergy Proofing Your Home
+Anaphylaxis (Severe Allergic Reaction)
+Chronic Rhinitis
+Cold / Flu / Allergies
+Food Allergy
+Hives
+Latex Allergy
+Sinusitis
+Allergy Health Center
+Abdominal Pain
+Appendicitis
+Ulcerative Colitis
+Constipation
+Crohn's Disease
+Diarrhea
+Dyspepsia (Indigestion)
+Inflammatory Bowel Disease (IBD)
+Intestinal Gas
+GERD (Heartburn, Acid Reflux)
+
+Medication names
+Bactroban (MUPIROCIN-TOPICAL OINTMENT)
+Bactroban (MUPIROCIN-TOPICAL CREAM)
+Bactroban Nasal (mupirocin)
+Bactroban Nasal (MUPIROCIN-NASAL OINTMENT)
+Edluar zolpidem tartrate
+efalizumab
+efavirenz
+Kadcyla ado-trastuzumab emtansine
+Kadian (morphine sustained action capsule-oral)
+Kalbitor ecallantide Injection
+Kaletra (LOPINAVIR/RITONAVIR SOLUTION-ORAL)
+Kaletra (lopinavir and ritonavir)
+Kalexate (sodium polystyrene sulfonate-powder)
+Kalydeco ivacaftor
+Kanuma sebelipase alfa
+Wakix pitolisant
+warfarin
+WARFARIN-ORAL
+Water Lemon (passion flower (Passiflora incarnata)-oral)
+Welchol (colesevelam)
+
+Blood test terms
+Blood glucose test
+Calcium blood test
+Cholesterol and lipid test
+C-reactive protein (CRP) test
+D-dimer test
+Erythrocyte sedimentation rate (ESR) test
+Folate test
+HbA1c test
+hCG test
+International normalised ratio (INR) test
+Kidney function tests
+Liver function tests
+Magnesium blood test
+Oestrogen blood test
+Prostate specific antigen (PSA) test
+Testicular Cancer
+Testosterone blood test
+Thyroid function tests
+Vitamin B12 test
+Vitamin D test
