@@ -12,4 +12,4 @@ https://github.com/okieselbach/Intune/blob/master/Convert-AzureAdObjectIdToSid.p
 
 https://erikengberg.com/azure-ad-object-id-to-sid/
 
-https://stackoverflow.com/questions/53599522/origin-of-user-sid-for-azure-ad-joined-device#:~:text=Every%20Azure%20AD%20joined%20device,part%20of%20the%20local%20administrators.
+https://stackoverflow.com/questions/53599522/origin-of-user-sid-for-azure-ad-joined-device
